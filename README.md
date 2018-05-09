@@ -31,10 +31,20 @@ LDF 47121862@qq.com
 
 
 ### 多页配置
-
+```javascript
 pages: {
   'home': {title: 'home'},
   'news': {title: 'news'},
   'about': {title: 'about'},
   'deep/info': {title: 'deep_info'},
 }
+```
+
+
+### git 常用
+
+
+* git remote add origin https://github.com/***.git
+* git add .
+* git commit -m '说明'
+* git push
