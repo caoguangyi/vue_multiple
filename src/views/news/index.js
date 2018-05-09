@@ -1,0 +1,1 @@
+console.log('news/index.js -- use defined html')
