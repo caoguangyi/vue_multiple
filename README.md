@@ -25,3 +25,6 @@ config/views.js 配置多页面 基于Vue 2.5.2 [vue-cli]
 
 > 配置结束后，运行会自动生成对应目录 以及入口js文件
 > 模板默认使用根目录下的 index.html 或者对应目录的自定义index.html
+
+```
+LDF 47121862@qq.com
