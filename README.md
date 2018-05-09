@@ -28,3 +28,13 @@ config/views.js 配置多页面 基于Vue 2.5.2 [vue-cli]
 
 ```
 LDF 47121862@qq.com
+
+
+### 多页配置
+
+pages: {
+  'home': {title: 'home'},
+  'news': {title: 'news'},
+  'about': {title: 'about'},
+  'deep/info': {title: 'deep_info'},
+}
